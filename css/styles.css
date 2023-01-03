@@ -1,0 +1,166 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Nanum Myeongjo', serif;
+    background-color: #F9F3F3;
+}
+
+
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 400%;
+    color: #975C8D;
+    margin-bottom: 1rem;
+
+}
+
+h2{
+    font-size: 1.5rem;
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFACC7;
+    font-weight: normal;
+    margin-top: 1rem;
+    padding-bottom: 10px;
+}
+h3{
+    color:#FF8DC7;
+}
+
+p{
+    margin-top: 0;
+    font-family: cursive;
+
+    
+}
+
+.dotted-line{
+    border-style: none;
+    width: 6px;
+    height: 5px;
+    border-top: dotted;
+    border-color: #DDDDDD;
+    border-width: 6px;
+    width: 40%;
+}
+
+.top-container{
+    background-color: #FFEEEE;
+    position:relative;
+    padding-top: 100px;
+
+}
+.cloud_in_the_sky{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+    top: 40px;
+}
+
+.cloud_around_the_mountain{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+
+.pro{
+    text-transform: uppercase;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.middle-container{}
+
+
+.bottom-container{
+    margin-top: 40px;
+    padding-top: 20px;
+    position: center;
+    background-color: #E98EAD;
+    margin-bottom: 0;
+    height: 80px;
+}
+
+.olha-image{
+    height: 200px;
+    width: 200px;
+}
+.web-image{
+    width:25%;
+    float: right;
+    margin-right: 30px;
+}
+.english-image{
+
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+
+
+
+.footer-link{
+    color:#3A4F7A;
+    padding: 8px 8px 20px 8px;
+    margin-bottom: 20px;
+}
+footer-link:hover{
+    color: #975C8D;
+}
+
+.btn {
+    background: #FFC6D3;
+    background-image: -webkit-linear-gradient(top, #FFC6D3, #E98EAD);
+    background-image: -moz-linear-gradient(top, #FFC6D3, #E98EAD);
+    background-image: -ms-linear-gradient(top, #FFC6D3, #E98EAD);
+    background-image: -o-linear-gradient(top, #FFC6D3, #E98EAD);
+    background-image: linear-gradient(to bottom, #FFC6D3, #E98EAD);
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 11px;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 12px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #F2D1D1;
+    background-image: -webkit-linear-gradient(top, #F2D1D1, #DBA39A);
+    background-image: -moz-linear-gradient(top, #F2D1D1, #DBA39A);
+    background-image: -ms-linear-gradient(top, #F2D1D1, #DBA39A);
+    background-image: -o-linear-gradient(top, #F2D1D1, #DBA39A);
+    background-image: linear-gradient(to bottom, #F2D1D1, #DBA39A);
+    text-decoration: none;
+}
+
+.signature{
+    color: white;
+    font-size: 0.92rem;
+    padding: 12px 0;
+}
