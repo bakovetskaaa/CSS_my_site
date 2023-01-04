@@ -25,10 +25,14 @@ h2{
 }
 h3{
     color:#FF8DC7;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p{
     margin-top: 0;
+    font-family: 'Montserrat', sans-serif;
+
+
 }
 
 .dotted-line{
